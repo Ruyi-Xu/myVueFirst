@@ -28,10 +28,12 @@ import {
   MessageBox,
   Tree,
   Select,
-  Option
+  Option,
+  Cascader
 } from 'element-ui'
 
 Vue.use(Button)
+Vue.use(Cascader)
 Vue.use(Breadcrumb)
 Vue.use(BreadcrumbItem)
 Vue.use(FormItem)
