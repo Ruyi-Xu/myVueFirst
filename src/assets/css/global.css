@@ -19,10 +19,14 @@ body, html, #app {
     margin-top: 15px;
 }
 
-.el-pagination{
-    margin-top:15px
+.el-pagination {
+    margin-top: 15px
 }
 
-.el-alert{
+.el-alert {
     margin-bottom: 15px;
 }
+
+.ql-editor{
+    min-height:300px;
+  }
